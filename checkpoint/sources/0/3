@@ -1,0 +1,3 @@
+v1
+{"path":"file:///Users/andreas/Desktop/Materialien/Spark/streaming_drop/wage5.csv","timestamp":1593011333000,"batchId":3}
+{"path":"file:///Users/andreas/Desktop/Materialien/Spark/streaming_drop/wage4.csv","timestamp":1593011333000,"batchId":3}

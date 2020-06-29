@@ -1,0 +1,5 @@
+v1
+{"path":"file:///Users/andreas/Desktop/Materialien/Spark/streaming_drop/wage9.csv","timestamp":1593011333000,"batchId":4}
+{"path":"file:///Users/andreas/Desktop/Materialien/Spark/streaming_drop/wage8.csv","timestamp":1593011333000,"batchId":4}
+{"path":"file:///Users/andreas/Desktop/Materialien/Spark/streaming_drop/wage6.csv","timestamp":1593011333000,"batchId":4}
+{"path":"file:///Users/andreas/Desktop/Materialien/Spark/streaming_drop/wage7.csv","timestamp":1593011333000,"batchId":4}
